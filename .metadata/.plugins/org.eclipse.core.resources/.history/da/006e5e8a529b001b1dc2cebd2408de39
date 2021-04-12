@@ -1,0 +1,15 @@
+package com.example.Vo;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class StudentVo {
+	private int id;
+	private String studentName;
+	private String college;
+	private String city;
+	
+
+}

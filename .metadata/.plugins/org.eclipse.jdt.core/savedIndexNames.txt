@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\GreatWits kafka\.metadata\.plugins\org.eclipse.jdt.core
+1550289790.index
+1938746169.index
+619347272.index
+1395803118.index

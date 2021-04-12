@@ -1,0 +1,13 @@
+package com.example.Vo;
+
+import lombok.Data;
+
+@Data
+public class StudentVo {
+	private int id;
+	private String studentName;
+	private String college;
+	private String city;
+	
+
+}
